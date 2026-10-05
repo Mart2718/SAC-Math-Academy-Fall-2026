@@ -1,0 +1,347 @@
+{
+  "slug": "stat-c1000",
+  "code": "STAT C1000",
+  "title": "STAT C1000 · Introduction to Statistics",
+  "lead": "Find explanations, practice, and support for the statistics topic you are learning today.",
+  "searchLabel": "Search this course",
+  "searchPlaceholder": "Try: p-value, standard error, S12",
+  "ways": [
+    {
+      "title": "Learn a topic",
+      "text": "Choose your unit and outcome to find notes, videos, apps, and practice.",
+      "scroll": "units",
+      "label": "Explore outcomes"
+    },
+    {
+      "title": "Practice and review",
+      "text": "Check a skill, prepare for the midterm, or review for the final.",
+      "href": "#/stat-c1000/review",
+      "label": "Choose your review"
+    },
+    {
+      "title": "Get help",
+      "text": "Find support for a confusing idea, a difficult problem, or feeling overwhelmed.",
+      "scroll": "help",
+      "label": "Find support"
+    }
+  ],
+  "unitsTitle": "Browse by unit and outcome",
+  "unitsSub": "Choose a topic below. Module labels connect these outcomes to your course materials.",
+  "unitTitles": {
+    "1": "Understanding data and descriptive statistics",
+    "2": "Probability and probability distributions",
+    "3": "Statistical inference: univariate data",
+    "4": "Statistical inference: bivariate data and other procedures"
+  },
+  "faqUrls": {
+    "1": "https://statc1000unit1faq.netlify.app/",
+    "2": "https://statc1000unit2faq.netlify.app/",
+    "3": "https://statc1000unit3faq.netlify.app/",
+    "4": "https://statc1000unit4faq.netlify.app/"
+  },
+  "toolsTitle": "Tools and references",
+  "toolsSub": "The things you will reach for in every unit.",
+  "thinking": {
+    "title": "Statistical thinking: the big ideas",
+    "lead": "Statistics is a way of thinking about the world wherever data, variation, and chance appear. It is more than a math requirement. It helps you question claims, not only calculate answers.",
+    "habits": [
+      {
+        "title": "Question the claim",
+        "text": "Who collected the data, how, and who is missing? Spotting bias is the first statistical skill."
+      },
+      {
+        "title": "Expect variation",
+        "text": "No two samples are alike. Statistics asks what chance alone would produce before it asks what is surprising."
+      },
+      {
+        "title": "Decide with evidence",
+        "text": "Probability and evidence let us make informed decisions without pretending to be certain."
+      }
+    ],
+    "doTitle": "Two things you will be able to do well",
+    "do": [
+      "Read a graph of data and say what it shows, and what it does not.",
+      "Take a statistical claim, run the right procedure, and write a conclusion that answers the claim."
+    ],
+    "closing": "Data also shapes equity, culture, identity, and opportunity. Behind every dataset are people, and good statistical thinking keeps them in view."
+  },
+  "help": {
+    "title": "When you are stuck",
+    "sub": "Name the kind of stuck you are in. Each one starts somewhere different.",
+    "paths": [
+      {
+        "title": "I do not understand the idea",
+        "text": "Watch a micro-lecture for the outcome, then read the FAQ for your unit.",
+        "links": [
+          {
+            "label": "Browse outcomes ↓",
+            "scroll": "units"
+          },
+          {
+            "label": "Unit 1 FAQ ↗",
+            "url": "https://statc1000unit1faq.netlify.app/"
+          },
+          {
+            "label": "Unit 2 FAQ ↗",
+            "url": "https://statc1000unit2faq.netlify.app/"
+          },
+          {
+            "label": "Unit 3 FAQ ↗",
+            "url": "https://statc1000unit3faq.netlify.app/"
+          },
+          {
+            "label": "Unit 4 FAQ ↗",
+            "url": "https://statc1000unit4faq.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "I do not know how to start",
+        "text": "Use a procedure helper to choose the method. Then follow the steps in the Art of Stat Student Hub.",
+        "links": [
+          {
+            "label": "Statistical Procedure Helper ↗",
+            "url": "https://statisticalprocedurehelper.netlify.app"
+          },
+          {
+            "label": "Inference Procedure Trainer ↗",
+            "url": "https://onetwopstatsproceduretrainer.netlify.app"
+          },
+          {
+            "label": "Art of Stat Student Hub: help me choose a tool ↗",
+            "url": "https://artofstatguide.netlify.app/#finder"
+          }
+        ]
+      },
+      {
+        "title": "My technology is not working",
+        "text": "The Art of Stat Student Hub has steps and a class video for each task. A scientific calculator covers the rest.",
+        "links": [
+          {
+            "label": "Art of Stat Student Hub ↗",
+            "url": "https://artofstatguide.netlify.app/"
+          },
+          {
+            "label": "Desmos scientific calculator ↗",
+            "url": "https://www.desmos.com/scientific"
+          }
+        ]
+      },
+      {
+        "title": "I got it wrong and do not know why",
+        "text": "Use an AI study partner to find the first place your thinking went off track. Or ask your class and say exactly where you got stuck.",
+        "links": [
+          {
+            "label": "Open the AI study partner ↓",
+            "scroll": "ai"
+          }
+        ]
+      },
+      {
+        "title": "I am behind or overwhelmed",
+        "text": "You do not have to sort it out alone. Talk to a person, or ask for help with basic needs.",
+        "links": [
+          {
+            "label": "Math Center ↗",
+            "url": "https://www.sac.edu/studentservices/mathcenter/"
+          },
+          {
+            "label": "Learning Center tutoring ↗",
+            "url": "https://www.sac.edu/studentservices/learningcenter/"
+          },
+          {
+            "label": "Counseling ↗",
+            "url": "https://www.sac.edu/studentservices/counseling/"
+          },
+          {
+            "label": "Health & Wellness Center ↗",
+            "url": "https://www.sac.edu/studentservices/healthwellness/"
+          },
+          {
+            "label": "Thrive Center: basic needs ↗",
+            "url": "https://www.sac.edu/studentservices/thrivecenter/"
+          }
+        ]
+      }
+    ]
+  },
+  "ai": {
+    "title": "AI study partner",
+    "sub": "AI can support your learning when you use it thoughtfully. Try the problem yourself first, then use AI to get unstuck, check your thinking, and practice.",
+    "stepsTitle": "How to use a prompt",
+    "steps": [
+      "Try the problem first. Write down what you tried and where you got stuck.",
+      "Pick a prompt that matches your problem. A Concept prompt is for when you do not understand the idea. A Skill prompt is for when you cannot get started or finish a problem.",
+      "Copy the prompt and paste it into Gemini, Claude, or ChatGPT. Replace every highlighted [bracket] with your problem, your work, or your numbers.",
+      "Answer the questions it asks you. A good study partner asks questions and gives hints. If it just gives you the answer, type: \"Do not solve it for me. Ask me one question at a time.\"",
+      "Check what you learned. Compare the explanation with your guided notes or micro-lecture, then use a follow-up prompt to test yourself.",
+      "On an assignment, add one line saying how you used AI. Quizzes and exams are AI-free."
+    ],
+    "followTitle": "Keep the conversation going",
+    "followSub": "Do not stop after the AI's first response. Use these follow-ups to push your learning deeper.",
+    "afterTitle": "After your session, ask yourself",
+    "afterQuestions": [
+      "What did I learn from this practice session? Did AI help me understand, or just give me an answer?",
+      "How does this explanation compare to what we learned in class or in the textbook?",
+      "What did I learn by questioning the AI's reasoning? How can I apply that thinking on an exam?"
+    ],
+    "waysTitle": "Four ways to use AI to learn statistics",
+    "waysSub": "These work for any topic. Copy a prompt, fill in the brackets, and paste it into Gemini, Claude, or ChatGPT.",
+    "ways": [
+      {
+        "title": "AI as a brainstormer",
+        "goal": "Generate ideas, simplify a concept, or plan how to study.",
+        "prompts": [
+          "I don't understand [concept]. Can you explain it simply?",
+          "What are 3 ways to think about [topic]?",
+          "How can I break down [topic] for my study guide?",
+          "I'm studying [topic]. Motivate me."
+        ],
+        "reflect": "What ideas did AI suggest that you had not thought of? Which ones will you try, and why?"
+      },
+      {
+        "title": "AI as a searcher",
+        "goal": "Find explanations, definitions, or examples. Always verify what it tells you.",
+        "prompts": [
+          "Summarize the idea of [topic] using examples and analogies.",
+          "What's the difference between a boxplot and a histogram?",
+          "Explain [topic] to me at three levels, from elementary school to college.",
+          "Can you give me 2 one-sample hypothesis test problems and walk me through them?"
+        ],
+        "reflect": "How does this explanation compare to what we learned in class or in the textbook?"
+      },
+      {
+        "title": "AI as a tutor",
+        "goal": "Practice solving problems and get guidance. Always try first before asking for help.",
+        "prompts": [
+          "Here's my solution to [problem]. Can you check my steps?",
+          "Give me a [type of] problem and help me if I get stuck.",
+          "I have an upcoming exam covering [topics]. Create a practice quiz for me and ask me each question one by one.",
+          "Turn [topic] into flashcard-style questions and answers."
+        ],
+        "reflect": "What did I learn from this practice session? Did AI help me understand, or just give me an answer?"
+      },
+      {
+        "title": "AI as a critical thinking partner",
+        "goal": "Question the AI's answers, ask \"why\" at every step, and compare approaches.",
+        "prompts": [
+          "Why did you use a t-test instead of a z-test?",
+          "Is there another way to solve this problem?",
+          "Explain this visually instead of in words.",
+          "Compare my solution to yours and explain any differences."
+        ],
+        "reflect": "What did I learn by questioning the AI's reasoning? How can I apply that thinking during exams?"
+      }
+    ],
+    "reminders": [
+      "Try first, then check with AI. You learn more by attempting problems yourself.",
+      "Cross-reference AI responses with your notes, the textbook, or your instructor's materials.",
+      "Use AI ethically. Do not submit AI-written work as your own. Use it to learn, not to shortcut.",
+      "Quizzes and exams are AI-free."
+    ],
+    "canvasNote": "In your Canvas course you also have a free AI chatbot called Nectir, which uses Claude.",
+    "fallbackTitle": "No prompts are written for this outcome yet",
+    "fallbackText": "Use the four ways to use AI on the course page, or try one of these starter prompts.",
+    "fallbackPrompts": [
+      "I am learning about [topic] in my introductory statistics class. I already tried the problem on my own. Explain the idea in plain language with one everyday analogy, then ask me one question to check that I understood.",
+      "Act as a Socratic statistics tutor. Here is my problem: [paste problem]. Do not give me the answer or do the calculations. Ask me one question at a time, and give a small hint only when I am stuck.",
+      "Here is a problem and my work: [paste problem and your steps]. Do not solve it for me. Find the first step where my reasoning goes wrong, explain why, and let me fix it myself."
+    ]
+  },
+  "review": {
+    "title": "Review and check yourself",
+    "sub": "Ungraded, so you can find out what you know before it counts.",
+    "cards": [
+      {
+        "big": "S1–S12",
+        "title": "Midterm review",
+        "text": "Rate what you know and get a study list.",
+        "url": "#/stat-c1000/midterm",
+        "internal": true
+      },
+      {
+        "big": "23",
+        "title": "Skill knowledge checks",
+        "text": "One per outcome, ungraded. Open them from Canvas."
+      },
+      {
+        "big": "71",
+        "title": "Final skills review",
+        "text": "Practice problems across descriptive statistics, probability, and inference.",
+        "url": "https://sacstatc1000finalskillsreview.netlify.app"
+      },
+      {
+        "big": "Short",
+        "title": "Final concept review",
+        "text": "Concept practice with a topic filter.",
+        "url": "https://sacstatc1000finalconceptreview.netlify.app"
+      },
+      {
+        "big": "Mixed",
+        "title": "Inference practice quiz",
+        "text": "Choose the procedure and set up the hypotheses. No calculations.",
+        "url": "https://c1000module1213practicequiz.netlify.app"
+      }
+    ]
+  },
+  "callouts": {
+    "S12": {
+      "title": "The mistake to watch for",
+      "text": "When the question is about a sample mean, divide σ by √n. \"What is the probability of a result higher than 55?\" is about one value. \"A sample of 5 scores is collected. What is the probability the mean is higher than 55?\" is about a sample mean, so it needs σ/√n."
+    }
+  },
+  "midterm": {
+    "title": "Midterm review",
+    "covers": "S1 through S12",
+    "lead": "It is important to accurately assess what you do or do not know so far. This is especially important before an exam. Rate your level of understanding for each skill below, then use your study list to decide what to review.",
+    "legend": [
+      {
+        "key": "P",
+        "label": "Proficient",
+        "text": "I need a quick review."
+      },
+      {
+        "key": "B",
+        "label": "Basic",
+        "text": "I need to review and do problems."
+      },
+      {
+        "key": "N",
+        "label": "Needs help",
+        "text": "I need someone to explain it, or I need to re-watch the lecture videos."
+      }
+    ],
+    "privacy": "Your ratings are saved only in this browser, on this device. Nothing is sent anywhere.",
+    "planTitle": "Your study list",
+    "planEmpty": "Rate a skill and your study list will appear here.",
+    "reviewNote": "If you cannot complete a problem or do not understand how to answer it, find the topic and review it in the guided notes, micro-lectures, online homework, textbook, or challenge problems. Each outcome page puts them in one place.",
+    "practiceTitle": "Practice problems",
+    "practiceText": "Use these practice problems as a learn check (a practice test) for yourself. The problems on the exam will be related in content and skills, but do not expect them to be identical. Try each one on paper first, then check your answer. If you cannot complete a problem or do not understand how to answer it, use the Review links to find where to study it.",
+    "practiceUrl": "",
+    "practiceLabel": "Open the review practice problems"
+  },
+  "people": {
+    "title": "Still stuck? Talk to a person",
+    "items": [
+      {
+        "label": "Ask your class in Pronto",
+        "text": "Post a picture of the problem. Explain what you do not understand or where you get stuck, and show what you already tried. Saying only \"I am stuck\" is not enough for us to help, so be as specific as you can. Pronto is for figuring out the thing you are missing, not for reteaching a whole concept."
+      },
+      {
+        "label": "Math Center",
+        "text": "A free drop-in place to get help on individual problems you are stuck on, online by Zoom or in person.",
+        "url": "https://www.sac.edu/studentservices/mathcenter/"
+      },
+      {
+        "label": "Learning Center",
+        "text": "A good place to get help with the concepts of the class. You need to make an appointment.",
+        "url": "https://www.sac.edu/studentservices/learningcenter/"
+      },
+      {
+        "label": "NetTutor",
+        "text": "Free online tutoring if your class is online. Find the link in the left menu of your Canvas course."
+      }
+    ]
+  },
+  "siteVersion": "2026-10-05.1"
+}
