@@ -1,0 +1,137 @@
+{
+  "eyebrow": "Santa Ana College Mathematics",
+  "headline": "You can do this. Start where you are.",
+  "lead": "Videos, guided notes, practice, and help for math at Santa Ana College, organized by what you are learning to do, so you can find the right thing at the right moment.",
+  "searchLabel": "Search the Academy",
+  "searchPlaceholder": "Try: standard error, p-value, S12",
+  "steps": [
+    {
+      "title": "Learn it",
+      "text": "Short lectures, guided notes, and interactive apps for each outcome."
+    },
+    {
+      "title": "Get unstuck",
+      "text": "FAQ guides by unit, and AI study partner prompts that ask you to try first."
+    },
+    {
+      "title": "Check yourself",
+      "text": "Ungraded skill checks and practice sets so you know where you stand."
+    }
+  ],
+  "coursesTitle": "Find your course",
+  "coursesSub": "Pick a course to see its learning outcomes and everything tied to them.",
+  "moreCourses": {
+    "title": "More courses",
+    "text": ""
+  },
+  "principlesTitle": "Built around what you are learning to do",
+  "principles": [
+    {
+      "title": "Outcome first",
+      "text": "Every course page starts from its learning outcomes, like S12 or S7. Textbooks change. Outcomes do not, so your resources stay where you left them."
+    },
+    {
+      "title": "Many ways to learn",
+      "text": "Short videos, guided notes, interactive apps, and practice, grouped together so you can pick what works for you today."
+    },
+    {
+      "title": "Help that coaches",
+      "text": "FAQ guides by unit, and AI study partner prompts built from real student questions. They ask you to try first."
+    }
+  ],
+  "band": {
+    "badge": "Planned",
+    "title": "Online and in the Math Center",
+    "text": "The Academy is built to sit beside the Math Center. Tutors and the hub will use the same outcome codes, so \"I am stuck on S12\" means the same thing in both places.",
+    "placeholder": []
+  },
+  "footer": {
+    "name": "Math Academy",
+    "left": "Department of Mathematics, Santa Ana College",
+    "right": "Resources contributed by SAC math faculty.",
+    "contact": ""
+  },
+  "support": {
+    "title": "Get help online or in the Math Center",
+    "lead": "Free math tutoring is available online and in person. Tell the tutor which outcome you are working on, like S12, so you can both find the same resources here.",
+    "mathCenter": {
+      "name": "Math Center",
+      "where": "In person: Library Building, second floor, room L-204",
+      "online": "Online: Math Center Zoom, with the same hours",
+      "hoursTitle": "Hours",
+      "hours": [
+        [
+          "Monday to Thursday",
+          "9 am to 9 pm"
+        ],
+        [
+          "Friday",
+          "9 am to 1 pm"
+        ],
+        [
+          "Saturday",
+          "9 am to 4 pm"
+        ]
+      ],
+      "phone": "(714) 564-6678",
+      "note": "The Math Center is free. You may need to register in Self-Service first. Directions and current hours are on the Math Center page, and hours can change each semester.",
+      "links": [
+        {
+          "label": "Math Center page",
+          "url": "https://www.sac.edu/studentservices/mathcenter/"
+        },
+        {
+          "label": "Join the Math Center Zoom",
+          "url": "https://rsccd-edu.zoom.us/j/9430572303"
+        },
+        {
+          "label": "Register in Self-Service",
+          "url": "https://www.sac.edu/selfservice"
+        }
+      ]
+    },
+    "moreTitle": "More ways to get support",
+    "more": [
+      {
+        "name": "Learning Center",
+        "text": "Free tutoring in many subjects, including math and writing, online and in person. Room D-307.",
+        "url": "https://www.sac.edu/studentservices/learningcenter/"
+      },
+      {
+        "name": "Tutoring at SAC",
+        "text": "All the tutoring options in one place, including the Academic Computing Center.",
+        "url": "https://www.sac.edu/studentservices/tutoring"
+      },
+      {
+        "name": "Counseling",
+        "text": "Academic, personal, and career counseling.",
+        "url": "https://www.sac.edu/studentservices/counseling/"
+      },
+      {
+        "name": "Health & Wellness Center",
+        "text": "Health services and mental health support.",
+        "url": "https://www.sac.edu/studentservices/healthwellness/"
+      },
+      {
+        "name": "Thrive Center",
+        "text": "Support with basic needs, including a food pantry.",
+        "url": "https://www.sac.edu/studentservices/thrivecenter/"
+      },
+      {
+        "name": "Disabled Students Program & Services (DSPS)",
+        "text": "Support and accommodations for students with disabilities.",
+        "url": "https://www.sac.edu/studentservices/dsps/"
+      },
+      {
+        "name": "Mathematics Department",
+        "text": "Math courses, degrees, and department information.",
+        "url": "https://www.sac.edu/division/smhs/math/"
+      }
+    ],
+    "hope": {
+      "name": "SAC Math Hope Academy",
+      "text": "",
+      "url": ""
+    }
+  }
+}
