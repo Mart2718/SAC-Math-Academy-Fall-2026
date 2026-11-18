@@ -1,3 +1,13 @@
+# RETIRED: use Mart2718/SacMathAcademy
+
+This repo is retired as of November 18, 2026. Its STAT C1000 redesign was merged into **[Mart2718/SacMathAcademy](https://github.com/Mart2718/SacMathAcademy)**, which now holds every course hub (STAT C1000 and Math 172).
+
+- The live site is **https://sacmathacademy.netlify.app/**.
+- `sacmathacademyfall2026.netlify.app` now forwards every visit there (see `_redirects`), so old links keep working. For example, `sacmathacademyfall2026.netlify.app/#/stat-c1000` opens `sacmathacademy.netlify.app/#/stat-c1000`.
+- Do not edit this repo. The files below are kept only as a record.
+
+---
+
 # SAC Math Academy: STAT C1000 hub
 
 ## Deploy everything at once (start here)
